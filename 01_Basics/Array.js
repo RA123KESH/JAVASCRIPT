@@ -18,7 +18,6 @@ console.log(a);
 //include is used to check whether an item is available or not. If item is available output will be true.
 console.log(a.includes(40));
 
-function x(){
+console.log(a.indexOf(37)); //index start with 0 for example my index of first itemis zero
 
-}
-
+console.log(a.length);      //length start with 1
